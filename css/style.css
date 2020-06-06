@@ -1,0 +1,48 @@
+.footer-bg {
+    background-color: #1F2F55;
+}
+
+.red {
+    color: red;
+}
+
+.white {
+    color: white
+}
+
+.navbg {
+    background-color: #5292C8;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: black !important;
+    border-bottom: 2px white;
+}
+.right
+{
+    text-align: center !important;
+}
+.justify
+{
+ text-align: justify;}
+.justify>h3
+{
+    color:#5292C8;
+}
+.justify>p
+{color: black;
+font-size: large;}
+.maincolor
+{
+    color:#5292C8;
+}
+.border
+{
+border: 1px solid black;
+border-radius: 3px;
+}
